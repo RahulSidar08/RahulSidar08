@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Computer Science Student from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
+- Final year CSE Undergraduate at IIIT Naya Raipur
 - 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **rahulsidar2056@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
