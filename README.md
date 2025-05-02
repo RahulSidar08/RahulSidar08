@@ -28,4 +28,3 @@ Developer Tools: VS Code, Postman, AWS (EC2, S3), Git,Github
 <br/>
 Technologies/Frameworks:React,Next.js, Node.js, MongoDB, Express.js, Bootstrap, Tailwind CSS,Material UI, REST
 API, GraphQL,
-)
