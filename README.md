@@ -24,17 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- **C/C++**, **JavaScript**, **TypeScript**, **SQL**
-
-### ⚙️ Frameworks & Libraries
-- **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Other Tools**: Git, Postman, REST APIs, Redux
-
 ---
 
 ## 🚀 Currently Working On
