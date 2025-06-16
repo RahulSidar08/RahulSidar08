@@ -1,6 +1,6 @@
 [## Hi there 👋
 
-<!--
+
 **RahulSidar08/RahulSidar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <h3> A Passionate Computer Science Student from India</h3>
 <h1 align="center">Hi 👋, I'm Rahul Sidar</h1>
 <!-- <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"> -->
@@ -21,11 +20,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web Development**, especially **MERN Stack** projects.
 - 📫 Reach out to me at: **rahulsidar2056@gmail.com**
-
----
-
-
-
----
 
 
